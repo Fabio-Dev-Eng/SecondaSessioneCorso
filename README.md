@@ -1,2 +1,0 @@
-# SecondaSessioneCorso
-Created with CodeSandbox
